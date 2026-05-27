@@ -261,8 +261,8 @@ h4 {
     color: rgb(232, 182, 0);
 }
 .stacks-item.grey {
-    background: #a1a1a11e;
-    color: var(--second-text);
+    background: #ff84841e;
+    color: #ff6565;
 }
 
 /* DIV PROJECTS */
@@ -331,8 +331,9 @@ h4 {
     opacity: 0;
     transform: translateY(20px);
 }
+
 .grp {
-    gap: 15px;
+    gap: 5px;
 }
 .text {
     display: flex;
